@@ -7,7 +7,7 @@ Simply call bugle with integer second interval and search details and hear the n
 <b>bugle -an 2 80-ESTABLISHED *.80-LISTEN 2000-ESTABLISHED</b>
 
 
-![howto](https://stash.aexp.com/stash/users/cholzing/repos/bugle/raw/assets/record.gif)
+![howto](https://github.com/clholzin/bugle/blob/master/assets/record.gif)
 
 
 
