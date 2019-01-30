@@ -1,4 +1,4 @@
-![mascot](https://stash.aexp.com/stash/users/cholzing/repos/bugle/raw/assets/gopher.png)
+![mascot](https://github.com/clholzin/bugle/blob/master/assets/gopher.png)
 
 ### Bugle - a searchable and refreshable netstat implementation
 
